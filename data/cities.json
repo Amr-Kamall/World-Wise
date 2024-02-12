@@ -1,0 +1,70 @@
+{
+  "cities": [
+    {
+      "id": "e539",
+      "cityName": "Murzuk",
+      "countryName": "Libya",
+      "notes": "",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://flagcdn.com/24x18/ly.png",
+          "alt": "flag"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "position": {
+        "lat": "26.175582311107366",
+        "lng": "18.281250000000004"
+      },
+      "date": "2024-02-12T22:21:06.986Z"
+    },
+    {
+      "id": "5e13",
+      "cityName": "Qua'An Pan",
+      "countryName": "Nigeria",
+      "notes": "",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://flagcdn.com/24x18/ng.png",
+          "alt": "flag"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "position": {
+        "lat": "8.843065670644654",
+        "lng": "8.964843750000002"
+      },
+      "date": "2024-02-12T22:22:27.693Z"
+    },
+    {
+      "id": "835f",
+      "cityName": "In Salah",
+      "countryName": "Algeria",
+      "notes": "",
+      "emoji": {
+        "type": "img",
+        "key": null,
+        "ref": null,
+        "props": {
+          "src": "https://flagcdn.com/24x18/dz.png",
+          "alt": "flag"
+        },
+        "_owner": null,
+        "_store": {}
+      },
+      "position": {
+        "lat": "28.22041757454557",
+        "lng": "2.4609375000000004"
+      },
+      "date": "2024-02-12T22:26:04.039Z"
+    }
+  ]
+}
